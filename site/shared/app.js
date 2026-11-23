@@ -77,8 +77,17 @@
     main.innerHTML = '<div class="top">' + header(T("namoz")) + "</div>" + '<div class="card">' + citySelect() + "</div>" +
       '<div class="card next"><div><span>' + T("next") + "</span><br><b>" + esc(nextLabel) + "</b></div><span>" + Math.floor(left / 60) + ":" + String(left % 60).padStart(2, "0") + " " + T("in") + "</span></div>" +
       '<div class="card times">' + keys.map(function (k, i) { return '<div class="' + (i === curI && k !== "sunrise" ? "now" : "") + '"><span>' + T(k) + "</span><b>" + tt[k] + "</b></div>"; }).join("") + "</div>" +
-      '<p class="sub">' + T("calc_note") + "</p>" + puzzleCard() + foot();
+      '<p class="sub">' + T("calc_note") + "</p>" + monthTable(c, n) + puzzleCard() + foot();
     timer = setInterval(function () { if (nowTash().min !== n.min) render(); }, 15000);
+  }
+  function monthTable(c, n) {
+    var rows = "";
+    for (var i = 0; i < 30; i++) {
+      var dt = new Date(Date.UTC(n.y, n.m - 1, n.d + i));
+      var x = UzPray.compute({ y: dt.getUTCFullYear(), m: dt.getUTCMonth() + 1, d: dt.getUTCDate(), lat: c.lat, lon: c.lon, elv: c.elv, tz: 5 });
+      rows += "<tr" + (i === 0 ? ' class="today"' : "") + "><td>" + dt.getUTCDate() + "." + String(dt.getUTCMonth() + 1).padStart(2, "0") + "</td><td><b>" + x.fajr + "</b></td><td>" + x.sunrise + "</td><td>" + x.dhuhr + "</td><td>" + x.asr + "</td><td><b>" + x.maghrib + "</b></td><td>" + x.isha + "</td></tr>";
+    }
+    return '<details class="card month"><summary><b>' + T("month") + '</b></summary><p class="sub">' + T("sahar_note") + '</p><div class="tw"><table><thead><tr><th>' + T("date") + "</th><th>" + T("sahar") + "</th><th>" + T("sunrise") + "</th><th>" + T("dhuhr") + "</th><th>" + T("asr") + "</th><th>" + T("iftor") + "</th><th>" + T("isha") + "</th></tr></thead><tbody>" + rows + "</tbody></table></div></details>";
   }
   /* ---- weather ---- */
   var EMO = [[/thunder/, "⛈️"], [/snow|sleet/, "🌨️"], [/rain|shower/, "🌧️"], [/fog/, "🌫️"], [/partlycloudy/, "⛅"], [/fair/, "🌤️"], [/clearsky/, "☀️"], [/cloudy/, "☁️"]];
@@ -86,7 +95,8 @@
   function renderWeather(main) {
     var head = '<div class="top">' + header(T("obhavo")) + '</div><div class="card">' + citySelect() + "</div>";
     var w = weatherData && weatherData.cities[cityId()];
-    if (!w) { main.innerHTML = head + '<div class="card sub">' + T("nodata") + "</div>" + foot(); return; }
+    var cc = cities.filter(function (x) { return x.id === cityId(); })[0];
+    if (!w) { main.innerHTML = head + '<div class="card sub">' + (cc && cc.weather === false ? T("wnone") : T("nodata")) + "</div>" + foot(); return; }
     var dn = T("days");
     var rows = w.daily.slice(0, 7).map(function (d, i) {
       var dt = new Date(d.date + "T12:00:00Z");
@@ -109,7 +119,7 @@
     main.innerHTML = head + '<div class="card"><b>' + T("conv") + '</b><div class="conv" style="margin-top:8px"><input id="amt" inputmode="decimal" value="' + esc(load("uz:amt", "100")) + '" aria-label="amount"><select id="ccy" style="width:auto">' +
       list.map(function (x) { return '<option' + (x.ccy === r.ccy ? " selected" : "") + ">" + x.ccy + "</option>"; }).join("") + '</select><div class="res" id="res"></div></div></div>' +
       '<div class="card"><div class="sub">' + T("r_date") + ": <b>" + esc(ratesData.date) + '</b></div><div class="rates">' +
-      list.slice(0, 30).map(function (x) {
+      list.map(function (x) {
         var cls = x.diff > 0 ? "up" : x.diff < 0 ? "down" : "";
         return '<div><span class="c">' + x.ccy + '</span><span class="n">' + (x.nominal > 1 ? x.nominal + " · " : "") + esc(x[lang] || x.uz) + '</span><span class="v">' + fmtN(x.rate) + ' <small class="' + cls + '">' + (x.diff > 0 ? "▲ +" : x.diff < 0 ? "▼ " : "") + fmtN(x.diff) + "</small></span></div>";
       }).join("") + "</div></div>" +

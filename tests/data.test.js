@@ -24,7 +24,7 @@ test("rates come from CBU file with a date, no invented numbers", () => {
 });
 test("weather cache has all cities with daily rows", () => {
   const w = D("weather.json"), cities = D("cities.json");
-  for (const c of cities) assert.ok(w.cities[c.id] && w.cities[c.id].daily.length >= 5, c.id);
+  for (const c of cities.filter(c => c.weather !== false)) assert.ok(w.cities[c.id] && w.cities[c.id].daily.length >= 5, c.id);
   assert.match(w.source, /MET Norway/);
 });
 test("ads off until configured", () => {

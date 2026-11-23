@@ -8,7 +8,7 @@ window.UZ_I18N = {
   w_src:"Maʼlumot: MET Norway (api.met.no), CC BY 4.0", r_date:"Kurs sanasi", r_src:"Manba: Oʻzbekiston Respublikasi Markaziy banki",
   conv:"Kalkulyator", sum:"soʻm", r_note:"Markaziy bank kursi. Banklardagi sotish-sotib olish kursi farq qiladi.",
   nodata:"Maʼlumot hozircha yoʻq. Keyinroq urinib koʻring.", foot:"Bepul. Kuzatuv yoʻq. Reklama faqat sozlangandan keyin.",
-  days:["Yak","Dush","Sesh","Chor","Pay","Jum","Shan"], share:"Ulashish" },
+  days:["Yak","Dush","Sesh","Chor","Pay","Jum","Shan"], share:"Ulashish", month:"Oylik jadval (Ramazon uchun ham)", sahar:"Saharlik", iftor:"Iftorlik", date:"Sana", sahar_note:"Saharlik — bomdod vaqtigacha, iftorlik — shom vaqtida (hisoblangan, rasmiy taqvim emas).", wnone:"Bu shahar uchun ob-havo yoʻq — eng yaqin viloyat markazini tanlang." },
  ru: { hub_title:"Полезное", hub_sub:"Время намаза, погода и курс валют — бесплатно и без регистрации.",
   namoz:"Время намаза", namoz_d:"Рассчитанное время для вашего города", obhavo:"Погода", obhavo_d:"Сегодня и прогноз на 6 дней",
   valyuta:"Курс валют", valyuta_d:"Официальный курс Центробанка", puzzle:"Слово дня", puzzle_d:"Новая словесная головоломка каждый день",
@@ -18,5 +18,5 @@ window.UZ_I18N = {
   w_src:"Данные: MET Norway (api.met.no), CC BY 4.0", r_date:"Дата курса", r_src:"Источник: Центральный банк Республики Узбекистан",
   conv:"Калькулятор", sum:"сум", r_note:"Курс Центробанка. Курсы покупки и продажи в банках отличаются.",
   nodata:"Данных пока нет. Попробуйте позже.", foot:"Бесплатно. Без слежки. Реклама только после настройки.",
-  days:["Вс","Пн","Вт","Ср","Чт","Пт","Сб"], share:"Поделиться" }
+  days:["Вс","Пн","Вт","Ср","Чт","Пт","Сб"], share:"Поделиться", month:"Расписание на месяц (и для Рамадана)", sahar:"Сухур до", iftor:"Ифтар", date:"Дата", sahar_note:"Сухур — до фаджра, ифтар — во время магриба (расчёт, не официальный календарь).", wnone:"Для этого города нет прогноза — выберите ближайший областной центр." }
 };

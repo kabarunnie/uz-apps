@@ -1,15 +1,286 @@
 [
- {"id":"toshkent","uz":"Toshkent","ru":"Ташкент","lat":41.3111,"lon":69.2797,"elv":455},
- {"id":"samarqand","uz":"Samarqand","ru":"Самарканд","lat":39.6542,"lon":66.9597,"elv":702},
- {"id":"buxoro","uz":"Buxoro","ru":"Бухара","lat":39.7681,"lon":64.4556,"elv":225},
- {"id":"namangan","uz":"Namangan","ru":"Наманган","lat":40.9983,"lon":71.6726,"elv":450},
- {"id":"andijon","uz":"Andijon","ru":"Андижан","lat":40.7821,"lon":72.3442,"elv":495},
- {"id":"fargona","uz":"Fargʻona","ru":"Фергана","lat":40.3864,"lon":71.7864,"elv":580},
- {"id":"nukus","uz":"Nukus","ru":"Нукус","lat":42.4600,"lon":59.6003,"elv":75},
- {"id":"urganch","uz":"Urganch","ru":"Ургенч","lat":41.5500,"lon":60.6333,"elv":100},
- {"id":"qarshi","uz":"Qarshi","ru":"Карши","lat":38.8606,"lon":65.7891,"elv":375},
- {"id":"termiz","uz":"Termiz","ru":"Термез","lat":37.2242,"lon":67.2783,"elv":302},
- {"id":"jizzax","uz":"Jizzax","ru":"Джизак","lat":40.1158,"lon":67.8422,"elv":380},
- {"id":"guliston","uz":"Guliston","ru":"Гулистан","lat":40.4897,"lon":68.7842,"elv":275},
- {"id":"navoiy","uz":"Navoiy","ru":"Навои","lat":40.1039,"lon":65.3739,"elv":347}
+ {
+  "id": "toshkent",
+  "uz": "Toshkent",
+  "ru": "Ташкент",
+  "lat": 41.3111,
+  "lon": 69.2797,
+  "elv": 455
+ },
+ {
+  "id": "samarqand",
+  "uz": "Samarqand",
+  "ru": "Самарканд",
+  "lat": 39.6542,
+  "lon": 66.9597,
+  "elv": 702
+ },
+ {
+  "id": "buxoro",
+  "uz": "Buxoro",
+  "ru": "Бухара",
+  "lat": 39.7681,
+  "lon": 64.4556,
+  "elv": 225
+ },
+ {
+  "id": "namangan",
+  "uz": "Namangan",
+  "ru": "Наманган",
+  "lat": 40.9983,
+  "lon": 71.6726,
+  "elv": 450
+ },
+ {
+  "id": "andijon",
+  "uz": "Andijon",
+  "ru": "Андижан",
+  "lat": 40.7821,
+  "lon": 72.3442,
+  "elv": 495
+ },
+ {
+  "id": "fargona",
+  "uz": "Fargʻona",
+  "ru": "Фергана",
+  "lat": 40.3864,
+  "lon": 71.7864,
+  "elv": 580
+ },
+ {
+  "id": "nukus",
+  "uz": "Nukus",
+  "ru": "Нукус",
+  "lat": 42.46,
+  "lon": 59.6003,
+  "elv": 75
+ },
+ {
+  "id": "urganch",
+  "uz": "Urganch",
+  "ru": "Ургенч",
+  "lat": 41.55,
+  "lon": 60.6333,
+  "elv": 100
+ },
+ {
+  "id": "qarshi",
+  "uz": "Qarshi",
+  "ru": "Карши",
+  "lat": 38.8606,
+  "lon": 65.7891,
+  "elv": 375
+ },
+ {
+  "id": "termiz",
+  "uz": "Termiz",
+  "ru": "Термез",
+  "lat": 37.2242,
+  "lon": 67.2783,
+  "elv": 302
+ },
+ {
+  "id": "jizzax",
+  "uz": "Jizzax",
+  "ru": "Джизак",
+  "lat": 40.1158,
+  "lon": 67.8422,
+  "elv": 380
+ },
+ {
+  "id": "guliston",
+  "uz": "Guliston",
+  "ru": "Гулистан",
+  "lat": 40.4897,
+  "lon": 68.7842,
+  "elv": 275
+ },
+ {
+  "id": "navoiy",
+  "uz": "Navoiy",
+  "ru": "Навои",
+  "lat": 40.1039,
+  "lon": 65.3739,
+  "elv": 347
+ },
+ {
+  "id": "xiva",
+  "uz": "Xiva",
+  "ru": "Хива",
+  "lat": 41.3783,
+  "lon": 60.3639,
+  "elv": 100,
+  "weather": false
+ },
+ {
+  "id": "qoqon",
+  "uz": "Qoʻqon",
+  "ru": "Коканд",
+  "lat": 40.5286,
+  "lon": 70.9425,
+  "elv": 410,
+  "weather": false
+ },
+ {
+  "id": "margilon",
+  "uz": "Margʻilon",
+  "ru": "Маргилан",
+  "lat": 40.4711,
+  "lon": 71.7247,
+  "elv": 480,
+  "weather": false
+ },
+ {
+  "id": "chirchiq",
+  "uz": "Chirchiq",
+  "ru": "Чирчик",
+  "lat": 41.4689,
+  "lon": 69.5822,
+  "elv": 600,
+  "weather": false
+ },
+ {
+  "id": "angren",
+  "uz": "Angren",
+  "ru": "Ангрен",
+  "lat": 41.0167,
+  "lon": 70.1436,
+  "elv": 900,
+  "weather": false
+ },
+ {
+  "id": "olmaliq",
+  "uz": "Olmaliq",
+  "ru": "Алмалык",
+  "lat": 40.8447,
+  "lon": 69.5983,
+  "elv": 500,
+  "weather": false
+ },
+ {
+  "id": "nurafshon",
+  "uz": "Nurafshon",
+  "ru": "Нурафшан",
+  "lat": 41.0403,
+  "lon": 69.3581,
+  "elv": 420,
+  "weather": false
+ },
+ {
+  "id": "shahrisabz",
+  "uz": "Shahrisabz",
+  "ru": "Шахрисабз",
+  "lat": 39.0578,
+  "lon": 66.8342,
+  "elv": 620,
+  "weather": false
+ },
+ {
+  "id": "denov",
+  "uz": "Denov",
+  "ru": "Денау",
+  "lat": 38.2672,
+  "lon": 67.8989,
+  "elv": 520,
+  "weather": false
+ },
+ {
+  "id": "kattaqorgon",
+  "uz": "Kattaqoʻrgʻon",
+  "ru": "Каттакурган",
+  "lat": 39.8989,
+  "lon": 66.2567,
+  "elv": 480,
+  "weather": false
+ },
+ {
+  "id": "zarafshon",
+  "uz": "Zarafshon",
+  "ru": "Зарафшан",
+  "lat": 41.5744,
+  "lon": 64.2083,
+  "elv": 320,
+  "weather": false
+ },
+ {
+  "id": "gijduvon",
+  "uz": "Gʻijduvon",
+  "ru": "Гиждуван",
+  "lat": 40.1,
+  "lon": 64.6833,
+  "elv": 210,
+  "weather": false
+ },
+ {
+  "id": "chimboy",
+  "uz": "Chimboy",
+  "ru": "Чимбай",
+  "lat": 42.9311,
+  "lon": 59.7703,
+  "elv": 70,
+  "weather": false
+ },
+ {
+  "id": "yangiyer",
+  "uz": "Yangiyer",
+  "ru": "Янгиер",
+  "lat": 40.275,
+  "lon": 68.8225,
+  "elv": 280,
+  "weather": false
+ },
+ {
+  "id": "chust",
+  "uz": "Chust",
+  "ru": "Чуст",
+  "lat": 41.0031,
+  "lon": 71.2372,
+  "elv": 1000,
+  "weather": false
+ },
+ {
+  "id": "asaka",
+  "uz": "Asaka",
+  "ru": "Асака",
+  "lat": 40.6414,
+  "lon": 72.2386,
+  "elv": 490,
+  "weather": false
+ },
+ {
+  "id": "quvasoy",
+  "uz": "Quvasoy",
+  "ru": "Кувасай",
+  "lat": 40.2972,
+  "lon": 71.98,
+  "elv": 800,
+  "weather": false
+ },
+ {
+  "id": "kogon",
+  "uz": "Kogon",
+  "ru": "Каган",
+  "lat": 39.7225,
+  "lon": 64.5517,
+  "elv": 220,
+  "weather": false
+ },
+ {
+  "id": "guzor",
+  "uz": "Gʻuzor",
+  "ru": "Гузар",
+  "lat": 38.6208,
+  "lon": 66.2481,
+  "elv": 520,
+  "weather": false
+ },
+ {
+  "id": "bekobod",
+  "uz": "Bekobod",
+  "ru": "Бекабад",
+  "lat": 40.2214,
+  "lon": 69.2697,
+  "elv": 290,
+  "weather": false
+ }
 ]

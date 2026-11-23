@@ -31,6 +31,7 @@ def weather():
     cities = json.loads((DATA / "cities.json").read_text(encoding="utf-8"))
     out = {"source": "MET Norway (api.met.no), CC BY 4.0", "sourceUrl": "https://api.met.no/", "fetched": now(), "cities": {}}
     for c in cities:
+        if c.get("weather") is False: continue  # extra prayer-time cities; weather only for regional centres
         j = get(f"https://api.met.no/weatherapi/locationforecast/2.0/compact?lat={c['lat']:.4f}&lon={c['lon']:.4f}&altitude={c['elv']}")
         ts = j["properties"]["timeseries"]
         first = ts[0]["data"]
