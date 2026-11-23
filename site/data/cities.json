@@ -1,0 +1,15 @@
+[
+ {"id":"toshkent","uz":"Toshkent","ru":"Ташкент","lat":41.3111,"lon":69.2797,"elv":455},
+ {"id":"samarqand","uz":"Samarqand","ru":"Самарканд","lat":39.6542,"lon":66.9597,"elv":702},
+ {"id":"buxoro","uz":"Buxoro","ru":"Бухара","lat":39.7681,"lon":64.4556,"elv":225},
+ {"id":"namangan","uz":"Namangan","ru":"Наманган","lat":40.9983,"lon":71.6726,"elv":450},
+ {"id":"andijon","uz":"Andijon","ru":"Андижан","lat":40.7821,"lon":72.3442,"elv":495},
+ {"id":"fargona","uz":"Fargʻona","ru":"Фергана","lat":40.3864,"lon":71.7864,"elv":580},
+ {"id":"nukus","uz":"Nukus","ru":"Нукус","lat":42.4600,"lon":59.6003,"elv":75},
+ {"id":"urganch","uz":"Urganch","ru":"Ургенч","lat":41.5500,"lon":60.6333,"elv":100},
+ {"id":"qarshi","uz":"Qarshi","ru":"Карши","lat":38.8606,"lon":65.7891,"elv":375},
+ {"id":"termiz","uz":"Termiz","ru":"Термез","lat":37.2242,"lon":67.2783,"elv":302},
+ {"id":"jizzax","uz":"Jizzax","ru":"Джизак","lat":40.1158,"lon":67.8422,"elv":380},
+ {"id":"guliston","uz":"Guliston","ru":"Гулистан","lat":40.4897,"lon":68.7842,"elv":275},
+ {"id":"navoiy","uz":"Navoiy","ru":"Навои","lat":40.1039,"lon":65.3739,"elv":347}
+]

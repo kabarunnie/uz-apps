@@ -1,0 +1,600 @@
+{
+ "source": "Oʻzbekiston Respublikasi Markaziy banki (cbu.uz)",
+ "sourceUrl": "https://cbu.uz/uz/arkhiv-kursov-valyut/",
+ "fetched": "2026-11-23T06:15+05:00",
+ "date": "21.11.2026",
+ "rates": [
+  {
+   "ccy": "USD",
+   "uz": "AQSH dollari",
+   "ru": "Доллар США",
+   "nominal": 1,
+   "rate": 12004.48,
+   "diff": 32.84
+  },
+  {
+   "ccy": "EUR",
+   "uz": "EVRO",
+   "ru": "Евро",
+   "nominal": 1,
+   "rate": 13155.71,
+   "diff": -4.71
+  },
+  {
+   "ccy": "RUB",
+   "uz": "Rossiya rubli",
+   "ru": "Российский рубль",
+   "nominal": 1,
+   "rate": 146.56,
+   "diff": 0.23
+  },
+  {
+   "ccy": "GBP",
+   "uz": "Angliya funt sterlingi",
+   "ru": "Фунт стерлингов",
+   "nominal": 1,
+   "rate": 15721.07,
+   "diff": -27.62
+  },
+  {
+   "ccy": "JPY",
+   "uz": "Yaponiya iyenasi",
+   "ru": "Иена",
+   "nominal": 1,
+   "rate": 75.58,
+   "diff": 0.71
+  },
+  {
+   "ccy": "AZN",
+   "uz": "Ozarbayjon manati",
+   "ru": "Азербайджанский манат",
+   "nominal": 1,
+   "rate": 7061.46,
+   "diff": 19.32
+  },
+  {
+   "ccy": "BDT",
+   "uz": "Bangladesh takasi",
+   "ru": "Бангладешская така",
+   "nominal": 1,
+   "rate": 96.51,
+   "diff": 0.26
+  },
+  {
+   "ccy": "BHD",
+   "uz": "Bahrayn dinori",
+   "ru": "Бахрейнский динар",
+   "nominal": 1,
+   "rate": 31825.24,
+   "diff": 95.48
+  },
+  {
+   "ccy": "BND",
+   "uz": "Bruney dollari",
+   "ru": "Брунейский доллар",
+   "nominal": 1,
+   "rate": 9305.8,
+   "diff": 21.14
+  },
+  {
+   "ccy": "BRL",
+   "uz": "Braziliya reali",
+   "ru": "Бразильский реал",
+   "nominal": 1,
+   "rate": 2020.99,
+   "diff": -15.77
+  },
+  {
+   "ccy": "BYN",
+   "uz": "Belorus rubli",
+   "ru": "Белорусский рубль",
+   "nominal": 1,
+   "rate": 3998.69,
+   "diff": -4.8
+  },
+  {
+   "ccy": "CAD",
+   "uz": "Kanada dollari",
+   "ru": "Канадский доллар",
+   "nominal": 1,
+   "rate": 8377.17,
+   "diff": 10.07
+  },
+  {
+   "ccy": "CHF",
+   "uz": "Shveytsariya franki",
+   "ru": "Швейцарский франк",
+   "nominal": 1,
+   "rate": 14252.02,
+   "diff": 45.73
+  },
+  {
+   "ccy": "CNY",
+   "uz": "Xitoy yuani",
+   "ru": "Юань ренминби",
+   "nominal": 1,
+   "rate": 1797.29,
+   "diff": 1.55
+  },
+  {
+   "ccy": "CUP",
+   "uz": "Kuba pesosi",
+   "ru": "Кубинское песо",
+   "nominal": 1,
+   "rate": 500.19,
+   "diff": 1.37
+  },
+  {
+   "ccy": "CZK",
+   "uz": "Chexiya kronasi",
+   "ru": "Чешская крона",
+   "nominal": 1,
+   "rate": 538.03,
+   "diff": -0.87
+  },
+  {
+   "ccy": "DKK",
+   "uz": "Daniya kronasi",
+   "ru": "Датская крона",
+   "nominal": 1,
+   "rate": 1759.88,
+   "diff": -0.76
+  },
+  {
+   "ccy": "DZD",
+   "uz": "Jazoir dinori",
+   "ru": "Алжирский динар",
+   "nominal": 1,
+   "rate": 87.5,
+   "diff": 0.16
+  },
+  {
+   "ccy": "EGP",
+   "uz": "Misr funti",
+   "ru": "Египетский фунт",
+   "nominal": 1,
+   "rate": 223.09,
+   "diff": 0.73
+  },
+  {
+   "ccy": "AFN",
+   "uz": "Afg‘oniston afg‘onisi",
+   "ru": "Афгани",
+   "nominal": 1,
+   "rate": 184.6,
+   "diff": 3.84
+  },
+  {
+   "ccy": "ARS",
+   "uz": "Argentina pesosi",
+   "ru": "Аргентинское песо",
+   "nominal": 1,
+   "rate": 7.67,
+   "diff": -0.01
+  },
+  {
+   "ccy": "GEL",
+   "uz": "Gruziya larisi",
+   "ru": "Грузинский лари",
+   "nominal": 1,
+   "rate": 4631.36,
+   "diff": 14.45
+  },
+  {
+   "ccy": "HKD",
+   "uz": "Gongkong dollari",
+   "ru": "Гонгконгский доллар",
+   "nominal": 1,
+   "rate": 1531.42,
+   "diff": 5.38
+  },
+  {
+   "ccy": "HUF",
+   "uz": "Vengriya forinti",
+   "ru": "Венгерский форинт",
+   "nominal": 1,
+   "rate": 35.24,
+   "diff": -0.42
+  },
+  {
+   "ccy": "IDR",
+   "uz": "Indoneziya rupiyasi",
+   "ru": "Рупия",
+   "nominal": 10,
+   "rate": 6.57,
+   "diff": 0.01
+  },
+  {
+   "ccy": "ILS",
+   "uz": "Isroil shekeli",
+   "ru": "Новый израильский шекель",
+   "nominal": 1,
+   "rate": 3595.34,
+   "diff": -54.77
+  },
+  {
+   "ccy": "INR",
+   "uz": "Hindiston rupiyasi",
+   "ru": "Индийская рупия",
+   "nominal": 1,
+   "rate": 129.53,
+   "diff": 1.21
+  },
+  {
+   "ccy": "IQD",
+   "uz": "Iroq dinori",
+   "ru": "Иракский динар",
+   "nominal": 1,
+   "rate": 7.92,
+   "diff": 0.02
+  },
+  {
+   "ccy": "IRR",
+   "uz": "Eron riali",
+   "ru": "Иранский риал",
+   "nominal": 10,
+   "rate": 0.06,
+   "diff": 0.0
+  },
+  {
+   "ccy": "ISK",
+   "uz": "Islandiya kronasi",
+   "ru": "Исландская крона",
+   "nominal": 1,
+   "rate": 96.02,
+   "diff": -0.04
+  },
+  {
+   "ccy": "JOD",
+   "uz": "Iordaniya dinori",
+   "ru": "Иорданский динар",
+   "nominal": 1,
+   "rate": 16931.57,
+   "diff": 46.32
+  },
+  {
+   "ccy": "AUD",
+   "uz": "Avstraliya dollari",
+   "ru": "Австралийский доллар",
+   "nominal": 1,
+   "rate": 7990.18,
+   "diff": -41.59
+  },
+  {
+   "ccy": "KGS",
+   "uz": "Qirg‘iz somi",
+   "ru": "Киргизский сом",
+   "nominal": 1,
+   "rate": 137.23,
+   "diff": 0.37
+  },
+  {
+   "ccy": "KHR",
+   "uz": "Kambodja riyeli",
+   "ru": "Риель",
+   "nominal": 1,
+   "rate": 2.94,
+   "diff": 0.0
+  },
+  {
+   "ccy": "KRW",
+   "uz": "Koreya Respublikasi voni",
+   "ru": "Вона Республики Корея",
+   "nominal": 1,
+   "rate": 8.96,
+   "diff": -0.06
+  },
+  {
+   "ccy": "KWD",
+   "uz": "Quvayt dinori",
+   "ru": "Кувейтский динар",
+   "nominal": 1,
+   "rate": 38849.45,
+   "diff": 106.28
+  },
+  {
+   "ccy": "KZT",
+   "uz": "Qozog‘iston tengesi",
+   "ru": "Казахстанский тенге",
+   "nominal": 1,
+   "rate": 26.35,
+   "diff": -0.29
+  },
+  {
+   "ccy": "LAK",
+   "uz": "Laos kipisi",
+   "ru": "Лаосский кип",
+   "nominal": 1,
+   "rate": 0.53,
+   "diff": 0.0
+  },
+  {
+   "ccy": "LBP",
+   "uz": "Livan funti",
+   "ru": "Ливанский фунт",
+   "nominal": 1,
+   "rate": 0.13,
+   "diff": 0.0
+  },
+  {
+   "ccy": "LYD",
+   "uz": "Liviya dinori",
+   "ru": "Ливийский динар",
+   "nominal": 1,
+   "rate": 1855.49,
+   "diff": 5.73
+  },
+  {
+   "ccy": "MAD",
+   "uz": "Marokash dirhami",
+   "ru": "Марокканский дирхам",
+   "nominal": 1,
+   "rate": 1201.19,
+   "diff": -0.43
+  },
+  {
+   "ccy": "MDL",
+   "uz": "Moldaviya leyi",
+   "ru": "Молдавский лей",
+   "nominal": 1,
+   "rate": 654.91,
+   "diff": 2.5
+  },
+  {
+   "ccy": "MMK",
+   "uz": "Myanma kyati",
+   "ru": "Мьянманский кьят",
+   "nominal": 1,
+   "rate": 5.72,
+   "diff": 0.02
+  },
+  {
+   "ccy": "MNT",
+   "uz": "Mongoliya tugriki",
+   "ru": "Монгольский тугpик",
+   "nominal": 1,
+   "rate": 3.33,
+   "diff": 0.01
+  },
+  {
+   "ccy": "MXN",
+   "uz": "Meksika pesosi",
+   "ru": "Мексиканское песо",
+   "nominal": 1,
+   "rate": 629.6,
+   "diff": -6.47
+  },
+  {
+   "ccy": "MYR",
+   "uz": "Malayziya ringgiti",
+   "ru": "Малайзийский ринггит",
+   "nominal": 1,
+   "rate": 2919.02,
+   "diff": 7.98
+  },
+  {
+   "ccy": "NOK",
+   "uz": "Norvegiya kronasi",
+   "ru": "Норвежская крона",
+   "nominal": 1,
+   "rate": 1230.59,
+   "diff": -5.05
+  },
+  {
+   "ccy": "NZD",
+   "uz": "Yangi Zelandiya dollari",
+   "ru": "Новозеландский доллар",
+   "nominal": 1,
+   "rate": 6589.26,
+   "diff": -29.86
+  },
+  {
+   "ccy": "OMR",
+   "uz": "Ummon riali",
+   "ru": "Оманский риал",
+   "nominal": 1,
+   "rate": 31180.47,
+   "diff": 85.3
+  },
+  {
+   "ccy": "PHP",
+   "uz": "Filippin pesosi",
+   "ru": "Филиппинское песо",
+   "nominal": 1,
+   "rate": 188.17,
+   "diff": 0.18
+  },
+  {
+   "ccy": "PKR",
+   "uz": "Pokiston rupiyasi",
+   "ru": "Пакистанская рупия",
+   "nominal": 1,
+   "rate": 43.43,
+   "diff": 0.12
+  },
+  {
+   "ccy": "PLN",
+   "uz": "Polsha zlotiysi",
+   "ru": "Злотый",
+   "nominal": 1,
+   "rate": 2953.35,
+   "diff": -27.12
+  },
+  {
+   "ccy": "QAR",
+   "uz": "Qatar riali",
+   "ru": "Катарский риал",
+   "nominal": 1,
+   "rate": 3294.59,
+   "diff": 10.46
+  },
+  {
+   "ccy": "RON",
+   "uz": "Ruminiya leyi",
+   "ru": "Румынский лей",
+   "nominal": 1,
+   "rate": 2459.43,
+   "diff": -2.55
+  },
+  {
+   "ccy": "RSD",
+   "uz": "Serbiya dinori",
+   "ru": "Сербский динар",
+   "nominal": 1,
+   "rate": 111.8,
+   "diff": -0.07
+  },
+  {
+   "ccy": "AMD",
+   "uz": "Armaniston drami",
+   "ru": "Армянский драм",
+   "nominal": 1,
+   "rate": 33.25,
+   "diff": -0.19
+  },
+  {
+   "ccy": "SAR",
+   "uz": "Saudiya Arabistoni riali",
+   "ru": "Саудовский риял",
+   "nominal": 1,
+   "rate": 3199.49,
+   "diff": 8.07
+  },
+  {
+   "ccy": "SDG",
+   "uz": "Sudan funti",
+   "ru": "Суданский фунт",
+   "nominal": 1,
+   "rate": 20.0,
+   "diff": 0.05
+  },
+  {
+   "ccy": "SEK",
+   "uz": "Shvetsiya kronasi",
+   "ru": "Шведская крона",
+   "nominal": 1,
+   "rate": 1174.26,
+   "diff": -6.71
+  },
+  {
+   "ccy": "SGD",
+   "uz": "Singapur dollari",
+   "ru": "Сингапурский доллар",
+   "nominal": 1,
+   "rate": 9305.8,
+   "diff": 21.86
+  },
+  {
+   "ccy": "SYP",
+   "uz": "Suriya funti",
+   "ru": "Сирийский фунт",
+   "nominal": 1,
+   "rate": 98.4,
+   "diff": 0.29
+  },
+  {
+   "ccy": "THB",
+   "uz": "Tailand bati",
+   "ru": "Бат",
+   "nominal": 1,
+   "rate": 353.8,
+   "diff": 0.5
+  },
+  {
+   "ccy": "TJS",
+   "uz": "Tojikiston somonisi",
+   "ru": "Сомони",
+   "nominal": 1,
+   "rate": 1305.54,
+   "diff": 4.27
+  },
+  {
+   "ccy": "TMT",
+   "uz": "Turkmaniston manati",
+   "ru": "Новый туркменский манат",
+   "nominal": 1,
+   "rate": 3429.85,
+   "diff": 9.38
+  },
+  {
+   "ccy": "TND",
+   "uz": "Tunis dinori",
+   "ru": "Тунисский динар",
+   "nominal": 1,
+   "rate": 3906.82,
+   "diff": -19.98
+  },
+  {
+   "ccy": "TRY",
+   "uz": "Turkiya lirasi",
+   "ru": "Турецкая лира",
+   "nominal": 1,
+   "rate": 237.36,
+   "diff": 0.12
+  },
+  {
+   "ccy": "UAH",
+   "uz": "Ukraina grivnasi",
+   "ru": "Гривна",
+   "nominal": 1,
+   "rate": 267.3,
+   "diff": 1.55
+  },
+  {
+   "ccy": "AED",
+   "uz": "BAA dirhami",
+   "ru": "Дирхам ОАЭ",
+   "nominal": 1,
+   "rate": 3268.48,
+   "diff": 9.21
+  },
+  {
+   "ccy": "UYU",
+   "uz": "Urugvay pesosi",
+   "ru": "Уругвайское песо",
+   "nominal": 1,
+   "rate": 295.24,
+   "diff": 0.34
+  },
+  {
+   "ccy": "VES",
+   "uz": "Venesuela bolivari",
+   "ru": "Венесуэльский боливар",
+   "nominal": 1,
+   "rate": 13.08,
+   "diff": 0.02
+  },
+  {
+   "ccy": "VND",
+   "uz": "Vetnam dongi",
+   "ru": "Донг",
+   "nominal": 10,
+   "rate": 4.65,
+   "diff": 0.0
+  },
+  {
+   "ccy": "XDR",
+   "uz": "SDR",
+   "ru": "СДР",
+   "nominal": 1,
+   "rate": 16138.61,
+   "diff": 53.58
+  },
+  {
+   "ccy": "YER",
+   "uz": "Yaman riali",
+   "ru": "Йеменский риал",
+   "nominal": 1,
+   "rate": 50.76,
+   "diff": 0.14
+  },
+  {
+   "ccy": "ZAR",
+   "uz": "Janubiy Afrika randi",
+   "ru": "Рэнд",
+   "nominal": 1,
+   "rate": 686.81,
+   "diff": -8.24
+  }
+ ]
+}

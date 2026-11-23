@@ -1,0 +1,22 @@
+window.UZ_I18N = {
+ uz: { hub_title:"Foydali", hub_sub:"Namoz vaqtlari, ob-havo va valyuta kursi — bepul, roʻyxatdan oʻtmasdan.",
+  namoz:"Namoz vaqtlari", namoz_d:"Shahringiz uchun hisoblangan vaqtlar", obhavo:"Ob-havo", obhavo_d:"Bugun va 6 kunlik prognoz",
+  valyuta:"Valyuta kursi", valyuta_d:"Markaziy bank rasmiy kurslari", puzzle:"Kunlik Soʻz", puzzle_d:"Har kuni yangi soʻz topishmogʻi",
+  city:"Shahar", next:"Keyingisi", in:"qoldi", fajr:"Bomdod", sunrise:"Quyosh", dhuhr:"Peshin", asr:"Asr", maghrib:"Shom", isha:"Xufton",
+  calc_note:"Vaqtlar hisoblangan, rasmiy taqvim emas. Usul: Muslim World League (bomdod 18°, xufton 17°), asr — Hanafiy. Oʻzbekiston musulmonlari idorasi taqvimi bir necha daqiqa farq qilishi mumkin.",
+  now:"Hozir", feels:"Namlik", wind:"Shamol", ms:"m/s", today:"Bugun", tomorrow:"Ertaga", updated:"Yangilangan",
+  w_src:"Maʼlumot: MET Norway (api.met.no), CC BY 4.0", r_date:"Kurs sanasi", r_src:"Manba: Oʻzbekiston Respublikasi Markaziy banki",
+  conv:"Kalkulyator", sum:"soʻm", r_note:"Markaziy bank kursi. Banklardagi sotish-sotib olish kursi farq qiladi.",
+  nodata:"Maʼlumot hozircha yoʻq. Keyinroq urinib koʻring.", foot:"Bepul. Kuzatuv yoʻq. Reklama faqat sozlangandan keyin.",
+  days:["Yak","Dush","Sesh","Chor","Pay","Jum","Shan"], share:"Ulashish" },
+ ru: { hub_title:"Полезное", hub_sub:"Время намаза, погода и курс валют — бесплатно и без регистрации.",
+  namoz:"Время намаза", namoz_d:"Рассчитанное время для вашего города", obhavo:"Погода", obhavo_d:"Сегодня и прогноз на 6 дней",
+  valyuta:"Курс валют", valyuta_d:"Официальный курс Центробанка", puzzle:"Слово дня", puzzle_d:"Новая словесная головоломка каждый день",
+  city:"Город", next:"Следующий", in:"осталось", fajr:"Фаджр", sunrise:"Восход", dhuhr:"Зухр", asr:"Аср", maghrib:"Магриб", isha:"Иша",
+  calc_note:"Время рассчитано, это не официальный календарь. Метод: Muslim World League (фаджр 18°, иша 17°), аср — ханафитский. Официальный календарь Управления мусульман Узбекистана может отличаться на несколько минут.",
+  now:"Сейчас", feels:"Влажность", wind:"Ветер", ms:"м/с", today:"Сегодня", tomorrow:"Завтра", updated:"Обновлено",
+  w_src:"Данные: MET Norway (api.met.no), CC BY 4.0", r_date:"Дата курса", r_src:"Источник: Центральный банк Республики Узбекистан",
+  conv:"Калькулятор", sum:"сум", r_note:"Курс Центробанка. Курсы покупки и продажи в банках отличаются.",
+  nodata:"Данных пока нет. Попробуйте позже.", foot:"Бесплатно. Без слежки. Реклама только после настройки.",
+  days:["Вс","Пн","Вт","Ср","Чт","Пт","Сб"], share:"Поделиться" }
+};
