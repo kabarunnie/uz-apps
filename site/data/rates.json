@@ -1,232 +1,232 @@
 {
  "source": "Oʻzbekiston Respublikasi Markaziy banki (cbu.uz)",
  "sourceUrl": "https://cbu.uz/uz/arkhiv-kursov-valyut/",
- "fetched": "2026-11-25T00:14+05:00",
- "date": "24.11.2026",
+ "fetched": "2026-11-25T03:10+05:00",
+ "date": "25.11.2026",
  "rates": [
   {
    "ccy": "USD",
    "uz": "AQSH dollari",
    "ru": "Доллар США",
    "nominal": 1,
-   "rate": 12002.93,
-   "diff": -1.55
+   "rate": 11990.54,
+   "diff": -12.39
   },
   {
    "ccy": "EUR",
    "uz": "EVRO",
    "ru": "Евро",
    "nominal": 1,
-   "rate": 13156.41,
-   "diff": 0.7
+   "rate": 13136.84,
+   "diff": -19.57
   },
   {
    "ccy": "RUB",
    "uz": "Rossiya rubli",
    "ru": "Российский рубль",
    "nominal": 1,
-   "rate": 146.74,
-   "diff": 0.18
+   "rate": 146.24,
+   "diff": -0.5
   },
   {
    "ccy": "GBP",
    "uz": "Angliya funt sterlingi",
    "ru": "Фунт стерлингов",
    "nominal": 1,
-   "rate": 15721.44,
-   "diff": 0.37
+   "rate": 15694.42,
+   "diff": -27.02
   },
   {
    "ccy": "JPY",
    "uz": "Yaponiya iyenasi",
    "ru": "Иена",
    "nominal": 1,
-   "rate": 75.45,
-   "diff": -0.13
+   "rate": 75.31,
+   "diff": -0.14
   },
   {
    "ccy": "AZN",
    "uz": "Ozarbayjon manati",
    "ru": "Азербайджанский манат",
    "nominal": 1,
-   "rate": 7060.55,
-   "diff": -0.91
+   "rate": 7053.26,
+   "diff": -7.29
   },
   {
    "ccy": "BDT",
    "uz": "Bangladesh takasi",
    "ru": "Бангладешская така",
    "nominal": 1,
-   "rate": 96.47,
-   "diff": -0.04
+   "rate": 96.12,
+   "diff": -0.35
   },
   {
    "ccy": "BHD",
    "uz": "Bahrayn dinori",
    "ru": "Бахрейнский динар",
    "nominal": 1,
-   "rate": 31812.7,
-   "diff": -12.54
+   "rate": 31796.71,
+   "diff": -15.99
   },
   {
    "ccy": "BND",
    "uz": "Bruney dollari",
    "ru": "Брунейский доллар",
    "nominal": 1,
-   "rate": 9301.71,
-   "diff": -4.09
+   "rate": 9294.99,
+   "diff": -6.72
   },
   {
    "ccy": "BRL",
    "uz": "Braziliya reali",
    "ru": "Бразильский реал",
    "nominal": 1,
-   "rate": 2017.6,
-   "diff": -3.39
+   "rate": 2019.29,
+   "diff": 1.69
   },
   {
    "ccy": "BYN",
    "uz": "Belorus rubli",
    "ru": "Белорусский рубль",
    "nominal": 1,
-   "rate": 4015.3,
-   "diff": 16.61
+   "rate": 4001.92,
+   "diff": -13.38
   },
   {
    "ccy": "CAD",
    "uz": "Kanada dollari",
    "ru": "Канадский доллар",
    "nominal": 1,
-   "rate": 8369.08,
-   "diff": -8.09
+   "rate": 8369.78,
+   "diff": 0.7
   },
   {
    "ccy": "CHF",
    "uz": "Shveytsariya franki",
    "ru": "Швейцарский франк",
    "nominal": 1,
-   "rate": 14309.64,
-   "diff": 57.62
+   "rate": 14293.17,
+   "diff": -16.47
   },
   {
    "ccy": "CNY",
    "uz": "Xitoy yuani",
    "ru": "Юань ренминби",
    "nominal": 1,
-   "rate": 1800.97,
-   "diff": 3.68
+   "rate": 1799.17,
+   "diff": -1.8
   },
   {
    "ccy": "CUP",
    "uz": "Kuba pesosi",
    "ru": "Кубинское песо",
    "nominal": 1,
-   "rate": 500.12,
-   "diff": -0.07
+   "rate": 499.61,
+   "diff": -0.51
   },
   {
    "ccy": "CZK",
    "uz": "Chexiya kronasi",
    "ru": "Чешская крона",
    "nominal": 1,
-   "rate": 538.05,
-   "diff": 0.02
+   "rate": 537.55,
+   "diff": -0.5
   },
   {
    "ccy": "DKK",
    "uz": "Daniya kronasi",
    "ru": "Датская крона",
    "nominal": 1,
-   "rate": 1759.96,
-   "diff": 0.08
+   "rate": 1757.5,
+   "diff": -2.46
   },
   {
    "ccy": "DZD",
    "uz": "Jazoir dinori",
    "ru": "Алжирский динар",
    "nominal": 1,
-   "rate": 87.49,
-   "diff": -0.01
+   "rate": 87.38,
+   "diff": -0.11
   },
   {
    "ccy": "EGP",
    "uz": "Misr funti",
    "ru": "Египетский фунт",
    "nominal": 1,
-   "rate": 220.64,
-   "diff": -2.45
+   "rate": 221.15,
+   "diff": 0.51
   },
   {
    "ccy": "AFN",
    "uz": "Afg‘oniston afg‘onisi",
    "ru": "Афгани",
    "nominal": 1,
-   "rate": 184.58,
-   "diff": -0.02
+   "rate": 180.01,
+   "diff": -4.57
   },
   {
    "ccy": "ARS",
    "uz": "Argentina pesosi",
    "ru": "Аргентинское песо",
    "nominal": 1,
-   "rate": 7.6,
-   "diff": -0.07
+   "rate": 7.59,
+   "diff": -0.01
   },
   {
    "ccy": "GEL",
    "uz": "Gruziya larisi",
    "ru": "Грузинский лари",
    "nominal": 1,
-   "rate": 4630.76,
-   "diff": -0.6
+   "rate": 4627.77,
+   "diff": -2.99
   },
   {
    "ccy": "HKD",
    "uz": "Gongkong dollari",
    "ru": "Гонгконгский доллар",
    "nominal": 1,
-   "rate": 1530.87,
-   "diff": -0.55
+   "rate": 1529.07,
+   "diff": -1.8
   },
   {
    "ccy": "HUF",
    "uz": "Vengriya forinti",
    "ru": "Венгерский форинт",
    "nominal": 1,
-   "rate": 35.35,
-   "diff": 0.11
+   "rate": 35.52,
+   "diff": 0.17
   },
   {
    "ccy": "IDR",
    "uz": "Indoneziya rupiyasi",
    "ru": "Рупия",
    "nominal": 10,
-   "rate": 6.6,
-   "diff": 0.03
+   "rate": 6.58,
+   "diff": -0.02
   },
   {
    "ccy": "ILS",
    "uz": "Isroil shekeli",
    "ru": "Новый израильский шекель",
    "nominal": 1,
-   "rate": 3601.24,
-   "diff": 5.9
+   "rate": 3588.8,
+   "diff": -12.44
   },
   {
    "ccy": "INR",
    "uz": "Hindiston rupiyasi",
    "ru": "Индийская рупия",
    "nominal": 1,
-   "rate": 129.18,
-   "diff": -0.35
+   "rate": 129.05,
+   "diff": -0.13
   },
   {
    "ccy": "IQD",
    "uz": "Iroq dinori",
    "ru": "Иракский динар",
    "nominal": 1,
-   "rate": 7.92,
-   "diff": 0.0
+   "rate": 7.91,
+   "diff": -0.01
   },
   {
    "ccy": "IRR",
@@ -241,64 +241,64 @@
    "uz": "Islandiya kronasi",
    "ru": "Исландская крона",
    "nominal": 1,
-   "rate": 95.89,
-   "diff": -0.13
+   "rate": 95.74,
+   "diff": -0.15
   },
   {
    "ccy": "JOD",
    "uz": "Iordaniya dinori",
    "ru": "Иорданский динар",
    "nominal": 1,
-   "rate": 16929.38,
-   "diff": -2.19
+   "rate": 16911.9,
+   "diff": -17.48
   },
   {
    "ccy": "AUD",
    "uz": "Avstraliya dollari",
    "ru": "Австралийский доллар",
    "nominal": 1,
-   "rate": 7961.54,
-   "diff": -28.64
+   "rate": 7962.92,
+   "diff": 1.38
   },
   {
    "ccy": "KGS",
    "uz": "Qirg‘iz somi",
    "ru": "Киргизский сом",
    "nominal": 1,
-   "rate": 137.21,
-   "diff": -0.02
+   "rate": 137.07,
+   "diff": -0.14
   },
   {
    "ccy": "KHR",
    "uz": "Kambodja riyeli",
    "ru": "Риель",
    "nominal": 1,
-   "rate": 2.95,
-   "diff": 0.01
+   "rate": 2.94,
+   "diff": -0.01
   },
   {
    "ccy": "KRW",
    "uz": "Koreya Respublikasi voni",
    "ru": "Вона Республики Корея",
    "nominal": 1,
-   "rate": 8.91,
-   "diff": -0.05
+   "rate": 8.93,
+   "diff": 0.02
   },
   {
    "ccy": "KWD",
    "uz": "Quvayt dinori",
    "ru": "Кувейтский динар",
    "nominal": 1,
-   "rate": 38857.01,
-   "diff": 7.56
+   "rate": 38791.78,
+   "diff": -65.23
   },
   {
    "ccy": "KZT",
    "uz": "Qozog‘iston tengesi",
    "ru": "Казахстанский тенге",
    "nominal": 1,
-   "rate": 26.35,
-   "diff": 0.0
+   "rate": 26.08,
+   "diff": -0.27
   },
   {
    "ccy": "LAK",
@@ -321,32 +321,32 @@
    "uz": "Liviya dinori",
    "ru": "Ливийский динар",
    "nominal": 1,
-   "rate": 1856.17,
-   "diff": 0.68
+   "rate": 1849.02,
+   "diff": -7.15
   },
   {
    "ccy": "MAD",
    "uz": "Marokash dirhami",
    "ru": "Марокканский дирхам",
    "nominal": 1,
-   "rate": 1198.24,
-   "diff": -2.95
+   "rate": 1197.92,
+   "diff": -0.32
   },
   {
    "ccy": "MDL",
    "uz": "Moldaviya leyi",
    "ru": "Молдавский лей",
    "nominal": 1,
-   "rate": 658.42,
-   "diff": 3.51
+   "rate": 650.25,
+   "diff": -8.17
   },
   {
    "ccy": "MMK",
    "uz": "Myanma kyati",
    "ru": "Мьянманский кьят",
    "nominal": 1,
-   "rate": 5.72,
-   "diff": 0.0
+   "rate": 5.71,
+   "diff": -0.01
   },
   {
    "ccy": "MNT",
@@ -354,247 +354,247 @@
    "ru": "Монгольский тугpик",
    "nominal": 1,
    "rate": 3.32,
-   "diff": -0.01
+   "diff": 0.0
   },
   {
    "ccy": "MXN",
    "uz": "Meksika pesosi",
    "ru": "Мексиканское песо",
    "nominal": 1,
-   "rate": 625.59,
-   "diff": -4.01
+   "rate": 621.41,
+   "diff": -4.18
   },
   {
    "ccy": "MYR",
    "uz": "Malayziya ringgiti",
    "ru": "Малайзийский ринггит",
    "nominal": 1,
-   "rate": 2911.21,
-   "diff": -7.81
+   "rate": 2913.51,
+   "diff": 2.3
   },
   {
    "ccy": "NOK",
    "uz": "Norvegiya kronasi",
    "ru": "Норвежская крона",
    "nominal": 1,
-   "rate": 1228.1,
-   "diff": -2.49
+   "rate": 1223.09,
+   "diff": -5.01
   },
   {
    "ccy": "NZD",
    "uz": "Yangi Zelandiya dollari",
    "ru": "Новозеландский доллар",
    "nominal": 1,
-   "rate": 6559.6,
-   "diff": -29.66
+   "rate": 6555.23,
+   "diff": -4.37
   },
   {
    "ccy": "OMR",
    "uz": "Ummon riali",
    "ru": "Оманский риал",
    "nominal": 1,
-   "rate": 31176.44,
-   "diff": -4.03
+   "rate": 31144.26,
+   "diff": -32.18
   },
   {
    "ccy": "PHP",
    "uz": "Filippin pesosi",
    "ru": "Филиппинское песо",
    "nominal": 1,
-   "rate": 188.04,
-   "diff": -0.13
+   "rate": 188.02,
+   "diff": -0.02
   },
   {
    "ccy": "PKR",
    "uz": "Pokiston rupiyasi",
    "ru": "Пакистанская рупия",
    "nominal": 1,
-   "rate": 43.42,
-   "diff": -0.01
+   "rate": 43.39,
+   "diff": -0.03
   },
   {
    "ccy": "PLN",
    "uz": "Polsha zlotiysi",
    "ru": "Злотый",
    "nominal": 1,
-   "rate": 2951.15,
-   "diff": -2.2
+   "rate": 2940.88,
+   "diff": -10.27
   },
   {
    "ccy": "QAR",
    "uz": "Qatar riali",
    "ru": "Катарский риал",
    "nominal": 1,
-   "rate": 3292.71,
-   "diff": -1.88
+   "rate": 3289.59,
+   "diff": -3.12
   },
   {
    "ccy": "RON",
    "uz": "Ruminiya leyi",
    "ru": "Румынский лей",
    "nominal": 1,
-   "rate": 2459.92,
-   "diff": 0.49
+   "rate": 2459.09,
+   "diff": -0.83
   },
   {
    "ccy": "RSD",
    "uz": "Serbiya dinori",
    "ru": "Сербский динар",
    "nominal": 1,
-   "rate": 111.8,
-   "diff": 0.0
+   "rate": 111.66,
+   "diff": -0.14
   },
   {
    "ccy": "AMD",
    "uz": "Armaniston drami",
    "ru": "Армянский драм",
    "nominal": 1,
-   "rate": 33.3,
-   "diff": 0.05
+   "rate": 33.21,
+   "diff": -0.09
   },
   {
    "ccy": "SAR",
    "uz": "Saudiya Arabistoni riali",
    "ru": "Саудовский риял",
    "nominal": 1,
-   "rate": 3198.82,
-   "diff": -0.67
+   "rate": 3195.35,
+   "diff": -3.47
   },
   {
    "ccy": "SDG",
    "uz": "Sudan funti",
    "ru": "Суданский фунт",
    "nominal": 1,
-   "rate": 20.0,
-   "diff": 0.0
+   "rate": 19.98,
+   "diff": -0.02
   },
   {
    "ccy": "SEK",
    "uz": "Shvetsiya kronasi",
    "ru": "Шведская крона",
    "nominal": 1,
-   "rate": 1171.88,
-   "diff": -2.38
+   "rate": 1170.32,
+   "diff": -1.56
   },
   {
    "ccy": "SGD",
    "uz": "Singapur dollari",
    "ru": "Сингапурский доллар",
    "nominal": 1,
-   "rate": 9301.71,
-   "diff": -4.09
+   "rate": 9294.99,
+   "diff": -6.72
   },
   {
    "ccy": "SYP",
    "uz": "Suriya funti",
    "ru": "Сирийский фунт",
    "nominal": 1,
-   "rate": 98.37,
-   "diff": -0.03
+   "rate": 98.28,
+   "diff": -0.09
   },
   {
    "ccy": "THB",
    "uz": "Tailand bati",
    "ru": "Бат",
    "nominal": 1,
-   "rate": 352.82,
-   "diff": -0.98
+   "rate": 353.65,
+   "diff": 0.83
   },
   {
    "ccy": "TJS",
    "uz": "Tojikiston somonisi",
    "ru": "Сомони",
    "nominal": 1,
-   "rate": 1303.25,
-   "diff": -2.29
+   "rate": 1301.9,
+   "diff": -1.35
   },
   {
    "ccy": "TMT",
    "uz": "Turkmaniston manati",
    "ru": "Новый туркменский манат",
    "nominal": 1,
-   "rate": 3429.41,
-   "diff": -0.44
+   "rate": 3425.87,
+   "diff": -3.54
   },
   {
    "ccy": "TND",
    "uz": "Tunis dinori",
    "ru": "Тунисский динар",
    "nominal": 1,
-   "rate": 3904.66,
-   "diff": -2.16
+   "rate": 3929.65,
+   "diff": 24.99
   },
   {
    "ccy": "TRY",
    "uz": "Turkiya lirasi",
    "ru": "Турецкая лира",
    "nominal": 1,
-   "rate": 237.2,
-   "diff": -0.16
+   "rate": 236.86,
+   "diff": -0.34
   },
   {
    "ccy": "UAH",
    "uz": "Ukraina grivnasi",
    "ru": "Гривна",
    "nominal": 1,
-   "rate": 265.54,
-   "diff": -1.76
+   "rate": 264.28,
+   "diff": -1.26
   },
   {
    "ccy": "AED",
    "uz": "BAA dirhami",
    "ru": "Дирхам ОАЭ",
    "nominal": 1,
-   "rate": 3268.15,
-   "diff": -0.33
+   "rate": 3264.51,
+   "diff": -3.64
   },
   {
    "ccy": "UYU",
    "uz": "Urugvay pesosi",
    "ru": "Уругвайское песо",
    "nominal": 1,
-   "rate": 296.19,
-   "diff": 0.95
+   "rate": 295.88,
+   "diff": -0.31
   },
   {
    "ccy": "VES",
    "uz": "Venesuela bolivari",
    "ru": "Венесуэльский боливар",
    "nominal": 1,
-   "rate": 13.07,
-   "diff": -0.01
+   "rate": 13.05,
+   "diff": -0.02
   },
   {
    "ccy": "VND",
    "uz": "Vetnam dongi",
    "ru": "Донг",
    "nominal": 10,
-   "rate": 4.66,
-   "diff": 0.01
+   "rate": 4.65,
+   "diff": -0.01
   },
   {
    "ccy": "XDR",
    "uz": "SDR",
    "ru": "СДР",
    "nominal": 1,
-   "rate": 16118.02,
-   "diff": -20.59
+   "rate": 16105.62,
+   "diff": -12.4
   },
   {
    "ccy": "YER",
    "uz": "Yaman riali",
    "ru": "Йеменский риал",
    "nominal": 1,
-   "rate": 50.77,
-   "diff": 0.01
+   "rate": 50.71,
+   "diff": -0.06
   },
   {
    "ccy": "ZAR",
    "uz": "Janubiy Afrika randi",
    "ru": "Рэнд",
    "nominal": 1,
-   "rate": 686.55,
-   "diff": -0.26
+   "rate": 683.53,
+   "diff": -3.02
   }
  ]
 }
